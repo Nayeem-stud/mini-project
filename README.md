@@ -24,14 +24,14 @@ The College Event Management System is a web application designed to simplify th
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/college-event-management-system.git
+   git clone https://github.com/Nayeem-stud/mini-project.git
 
 ## Contact
 
 For any questions, feedback, or support, please contact:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: [shaikabdul3133@gmail.com](mailto:shaikabdul3133@gmail.com)
+- **GitHub**: [Nayeem-stud](https://github.com/Nayeem-stud)
 
 Thank you for your interest in the College Event Management System!
 
